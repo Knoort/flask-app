@@ -1,5 +1,5 @@
 # flask-app
-testing flask app
+Это пробный проект для проверки работы Actions. В основе проекта фреймворк Фласк с одной функцией.
 
 # GitHub Actions Result
 
